@@ -2,7 +2,7 @@
   "TranslationLanguageCode": "en",
   "AutoUpdate": true,
   "TransferConfigAndAuthOnUpdate": true,
-  "UseWebsocket": true,
+  "UseWebsocket": false,
   "WebSocketPort": 14251,
   "StartupWelcomeDelay": false,
   "UseTelegramAPI": false,
