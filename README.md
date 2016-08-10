@@ -2,7 +2,7 @@ NexusVue Configs Currently Valid For Necrobot Version - 0.8.5
 
 Changelog: 
 
-No donations or anything, these configs are modified versions of existing configs. 
+These configs are modified versions of existing configs which have been made redundant from Necrobot updates.
 These are maintained and updated in the abcense of original config writers. 
 Upon the return of a an original config owner / update, this repo will not update.
 
